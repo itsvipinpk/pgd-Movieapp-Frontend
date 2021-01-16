@@ -7,6 +7,7 @@ import Confirmation from '../screens/confirmation/Confirmation'
 
 class Controller extends Component {
 
+  //comment for auto build.
   constructor()
   {
     super();
